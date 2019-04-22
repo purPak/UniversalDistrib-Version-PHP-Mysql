@@ -1,0 +1,3 @@
+﻿"Id Commande";Date;"Id Ligne de commande";"Id Produit";"Prix unitaire";Quantité;Montant;"Montant TVA";"Taux TVA";TTC
+1;2018-06-06;1;1;10.00;2;20;2;10.00;22
+1;2018-06-06;2;2;15.00;12;180;27;15.00;207

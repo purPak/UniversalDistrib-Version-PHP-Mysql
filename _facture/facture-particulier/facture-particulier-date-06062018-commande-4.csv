@@ -1,0 +1,4 @@
+﻿"Id Commande";Date;"Id Ligne de commande";"Id Produit";"Prix unitaire";Quantité;Montant;"Montant TVA";"Taux TVA";TTC
+4;2018-06-06;5;1;"10.00 €";13;130;13;10.00;143€
+4;2018-06-06;6;2;"15.00 €";6;90;13.5;15.00;103.5€
+4;2018-06-06;7;1;"10.00 €";5;50;5;10.00;55€
